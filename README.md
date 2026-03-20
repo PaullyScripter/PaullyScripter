@@ -19,7 +19,7 @@
 
 - fun fact: i love **leon** kennedy sm, especially him in re4 remake!
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzAwOHVuZHE5bGEzcnZneDduMzViZ3g0ZTdxcWd6dXljaDZxcGE5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CEM16vbLBI2Y78lT9k/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzAwOHVuZHE5bGEzcnZneDduMzViZ3g0ZTdxcWd6dXljaDZxcGE5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CEM16vbLBI2Y78lT9k/giphy.gif" width="25"> A little more about me...  
 
 ```javascript
 const paul = {}
