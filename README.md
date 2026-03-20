@@ -21,8 +21,19 @@
 
 ### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzAwOHVuZHE5bGEzcnZneDduMzViZ3g0ZTdxcWd6dXljaDZxcGE5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CEM16vbLBI2Y78lT9k/giphy.gif" width="40"> A little more about me...  
 
-```javascript
-const paul = {}
+```python
+class PaulNguyen:
+    def __init__(self):
+        self.vietnamese_name = "Bao Nguyen"
+
+    def myInterest(self):
+        return ["Web Development", "Software Development", "Backend", "Frontend", "Databases"]
+
+    def programmingLanguage(self):
+        return ["Python", "HTML", "CSS", "Javascript", "C++", "Java"]
+
+    def myStuff(self):
+        return ["Resident Evil", "Leon Kennedy", "Crystal Castles", "Pastel Ghost", "S3RL"]
 ```
 
 <h3 align="left">Connect with me:</h3>
