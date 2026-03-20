@@ -13,7 +13,7 @@
 
 - ask me about **anything on frontend!**
 
-- email me!! **bquoc6834@gmail.com**
+- email me!! **bquoc6834@gmail.com**|**bnguyen8023@sdsu.edu**
 
 - fun fact: **no**
 
