@@ -15,7 +15,7 @@
 
 - email me!! **bquoc6834@gmail.com**|**bnguyen8023@sdsu.edu**
 
-- fun fact: **no**
+- fun fact: i love **leon** kennedy sm, especially him in re4 remake!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
