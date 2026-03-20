@@ -13,12 +13,17 @@
 
 - my portfolio is [https://paullyscripter.github.io/](https://paullyscripter.github.io/) also stay tune for a new one made w vite & react! :D
 
-
 - ask me about **anything on frontend!**
 
-- email me!! **bquoc6834@gmail.com**|**bnguyen8023@sdsu.edu**
+- email me!! **bquoc6834@gmail.com** | **bnguyen8023@sdsu.edu**
 
 - fun fact: i love **leon** kennedy sm, especially him in re4 remake!
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const paul = {}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
