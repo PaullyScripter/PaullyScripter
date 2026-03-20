@@ -11,7 +11,7 @@
 
 - needing friends to help with [weave our tapestry](https://github.com/PaullyScripter/weave-our-tapestry)
 
-- my portfolio is [https://paullyscripter.github.io/](https://paullyscripter.github.io/)
+- my portfolio is [https://paullyscripter.github.io/](https://paullyscripter.github.io/) also stay tune for a new one made w vite & react! :D
 
 
 - ask me about **anything on frontend!**
