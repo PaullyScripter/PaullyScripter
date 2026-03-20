@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paullyscripter&label=Profile%20views&color=0e75b6&style=flat" alt="paullyscripter" /> </p>
 
-- im currently working on [weave our tapestry](https://github.com/PaullyScripter/weave-our-tapestry)
+- i am currently workin on [equinox dashboard](https://github.com/PaullyScripter/equinoxWebsiteBackend)
+
+- and also [weave our tapestry](https://github.com/PaullyScripter/weave-our-tapestry)
 
 - im still learning **reactjs, vite, typescript, and mongodb!!!**
 
 - needing friends to help with [weave our tapestry](https://github.com/PaullyScripter/weave-our-tapestry)
 
 - my portfolio is [https://paullyscripter.github.io/](https://paullyscripter.github.io/)
+
+> - i am also working on my new portfolio with vite & react!
 
 - ask me about **anything on frontend!**
 
