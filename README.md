@@ -29,8 +29,8 @@ class PaulNguyen:
     def myInterest(self):
         return ["Web Development", "Software Development", "Backend", "Frontend", "Databases"]
 
-    def programmingLanguage(self):
-        return ["Python", "HTML", "CSS", "Javascript", "C++", "Java"]
+    def loserClub(self):
+        return ["Python", "HTML", "CSS", "Javascript", "C++", "Java", "PostgreSQL", "MongoDB", "Vite", "React", "FastAPI","Node.js"]
 
     def myStuff(self):
         return ["Resident Evil", "Leon Kennedy", "Crystal Castles", "Pastel Ghost", "S3RL"]
