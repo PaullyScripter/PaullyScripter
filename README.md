@@ -5,7 +5,7 @@
 
 - i am currently workin on [equinox dashboard](https://github.com/PaullyScripter/equinoxWebsiteBackend)
 
-- and also [weave our tapestry](https://github.com/PaullyScripter/weave-our-tapestry)
+- also [weave our tapestry](https://github.com/PaullyScripter/weave-our-tapestry) and my new portfolio with vite & react!
 
 - im still learning **reactjs, vite, typescript, and mongodb!!!**
 
@@ -13,7 +13,6 @@
 
 - my portfolio is [https://paullyscripter.github.io/](https://paullyscripter.github.io/)
 
-> - i am also working on my new portfolio with vite & react!
 
 - ask me about **anything on frontend!**
 
