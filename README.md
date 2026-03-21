@@ -33,7 +33,7 @@ class PaulNguyen:
         return ["Python", "HTML", "CSS", "Javascript", "C++", "Java", "PostgreSQL", "MongoDB", "Vite", "React", "FastAPI","Node.js"]
 
     def myStuff(self):
-        return ["Resident Evil", "Leon Kennedy", "Crystal Castles", "Pastel Ghost", "S3RL"]
+        return ["Resident Evil", "Leon Kennedy", "Valorant", "HSR", "Crystal Castles", "Pastel Ghost", "S3RL"]
 ```
 
 <h3 align="left">Connect with me:</h3>
