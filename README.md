@@ -3,21 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paullyscripter&label=Profile%20views&color=0e75b6&style=flat" alt="paullyscripter" /> </p>
 
-- i am currently workin on [equinox dashboard](https://github.com/PaullyScripter/equinoxWebsiteBackend)
-
-- also [weave our tapestry](https://github.com/PaullyScripter/weave-our-tapestry) and my new portfolio with vite & react!
+- i am currently workin on [equinox dashboard](https://github.com/PaullyScripter/equinoxWebsiteBackend), [weave our tapestry](https://github.com/PaullyScripter/weave-our-tapestry) and my new portfolio with vite & react!
 
 - im still learning **reactjs, vite, typescript, and mongodb!!!**
 
-- needing friends to help with [weave our tapestry](https://github.com/PaullyScripter/weave-our-tapestry)
-
-- my portfolio is [https://paullyscripter.github.io/](https://paullyscripter.github.io/) also stay tune for a new one made w vite & react! :D
-
-- ask me about **anything on frontend!**
-
 - email me!! **bquoc6834@gmail.com** | **bnguyen8023@sdsu.edu**
 
-- fun fact: i love **leon** kennedy sm, especially him in re4 remake!
+- i love **leon** kennedy sm, especially him in re4 remake
 
 ### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzAwOHVuZHE5bGEzcnZneDduMzViZ3g0ZTdxcWd6dXljaDZxcGE5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CEM16vbLBI2Y78lT9k/giphy.gif" width="40"> A little more about me...  
 
