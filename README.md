@@ -40,5 +40,5 @@ class PaulNguyen:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paullyscripter&show_icons=true&locale=en&layout=compact" alt="paullyscripter" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paullyscripter&show_icons=true&locale=en" alt="paullyscripter" /></p>
->
+
 
