@@ -39,14 +39,14 @@ class PaulNguyen:
 
 <p>
   <img align="left"
-       src="https://github-readme-stats-chi-two-13.vercel.app/api?username=paullyscripter
-&show_icons=true&locale=en&layout=compact&cache_seconds=86400"
+       src="https://github-readme-stats-chi-two-13.vercel.app/api/top-langs?username=paullyscripter&show_icons=true&locale=en&layout=compact&cache_seconds=86400&v=2"
        alt="paullyscripter" />
 </p>
 
 <p>
   <img align="center"
-       src="https://github-readme-stats-chi-two-13.vercel.app/api?username=paullyscripter&show_icons=true&locale=en&cache_seconds=86400"
+       src="https://github-readme-stats-chi-two-13.vercel.app/api?username=paullyscripter&show_icons=true&locale=en&cache_seconds=86400&count_private=true&include_all_commits=true&v=2"
        alt="paullyscripter" />
 </p>
+
 
