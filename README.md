@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paullyscripter&label=Profile%20views&color=0e75b6&style=flat" alt="paullyscripter" /> </p>
 
-- i am currently workin on [equinox dashboard](https://github.com/PaullyScripter/equinoxWebsiteBackend), [weave our tapestry](https://github.com/PaullyScripter/weave-our-tapestry) and my new portfolio with vite & react!
+- i am currently workin on [diary archive](https://github.com/PaullyScripter/diaryArchive), [equinox dashboard](https://github.com/PaullyScripter/equinoxWebsiteBackend)!
 
 - im still learning **reactjs, vite, typescript, and mongodb!!!**
 
